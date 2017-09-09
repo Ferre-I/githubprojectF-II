@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PR3.cpp" />
+    <ClCompile Include="ActividadesReporte4.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{9B21209F-98FE-48BE-A111-C41D81CD1C9C}</ProjectGuid>

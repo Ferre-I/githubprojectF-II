@@ -1,4 +1,3 @@
-﻿  PR3.cpp
-c:\users\ferre\documents\visual studio 2015\projects\gphraphics\gphraphics\pr3.cpp(67): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
-  GPhraphics.vcxproj -> c:\users\ferre\documents\visual studio 2015\Projects\GPhraphics\Debug\GPhraphics.exe
-  GPhraphics.vcxproj -> c:\users\ferre\documents\visual studio 2015\Projects\GPhraphics\Debug\GPhraphics.pdb (Full PDB)
+﻿  ActividadesReporte4.cpp
+  GPhraphics.vcxproj -> C:\Users\Ferre\Documents\Visual Studio 2015\Projects\GPhraphicsIII\GPhraphics\Debug\GPhraphics.exe
+  GPhraphics.vcxproj -> C:\Users\Ferre\Documents\Visual Studio 2015\Projects\GPhraphicsIII\GPhraphics\Debug\GPhraphics.pdb (Full PDB)

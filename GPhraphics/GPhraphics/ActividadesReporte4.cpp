@@ -199,7 +199,7 @@ void display ( void )   // Creamos la funcion donde se dibuja
 	glLoadIdentity();
 
 	
-	glTranslatef(transX,transY,transZ-5);
+	glTranslatef(transX,transY -5,transZ-10);
 	glRotatef(angleX, 1, 0, 0);
 	glRotatef(angleY, 0, 1, 0);
 	glRotatef(angleZ, 0, 0, 1);
