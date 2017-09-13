@@ -362,62 +362,62 @@ void keyboard ( unsigned char key, int x, int y )  // Create Keyboard Function
 		case 'w':
 		case 'W':
 			transZ -=0.2f;
-			printf("Posicion en Z: %f\n", transZ);
+			//printf("Posicion en Z: %f\n", transZ);
 			break;
 		case 's':
 		case 'S':
 			transZ +=0.2f;
-			printf("Posicion en Z: %f\n", transZ);
+			//printf("Posicion en Z: %f\n", transZ);
 			break;
 		case 'a':
 		case 'A':
 			transX -=0.2f;
-			printf("Posicion en X: %f\n", transX);
+			//printf("Posicion en X: %f\n", transX);
 			break;
 		case 'd':
 		case 'D':
 			transX +=0.2f;
-			printf("Posicion en X: %f\n", transX);
+			//printf("Posicion en X: %f\n", transX);
 			break;
 		case 'r':
 		case 'R':
 			transY += 0.2f;
-			printf("Posicion en Y: %f\n", transY);
+			//printf("Posicion en Y: %f\n", transY);
 			break;
 		case 'F':
 		case 'f':
 			transY -= 0.2f;
-			printf("Posicion en Y: %f\n", transY);
+			//printf("Posicion en Y: %f\n", transY);
 			break;
 		case 'i':
 		case 'I':
 			angleX += 1.15f;
-			printf("Posicion en X: %f\n", angleX);
+			//printf("Posicion en X: %f\n", angleX);
 			break;
 		case 'k':
 		case 'K':
 			angleX -= 1.15f;
-			printf("Posicion en X: %f\n", angleX);
+			//printf("Posicion en X: %f\n", angleX);
 			break;
 		case 'j':
 		case 'J':
 			angleY += 1.15f;
-			printf("Posicion en X: %f\n", angleX);
+			//printf("Posicion en X: %f\n", angleX);
 			break;
 		case 'l':
 		case 'L':
 			angleY -= 1.15f;
-			printf("Posicion en X: %f\n", angleX);
+			//printf("Posicion en X: %f\n", angleX);
 			break;
 		case 'u':
 		case 'U':
 			angleZ += 1.15f;
-			printf("Posicion en X: %f\n", angleX);
+			//printf("Posicion en X: %f\n", angleX);
 			break;
 		case 'o':
 		case 'O':
 			angleZ -= 1.15f;
-			printf("Posicion en X: %f\n", angleX);
+			//printf("Posicion en X: %f\n", angleX);
 			break;
 
 		case 27:        // Cuando Esc es presionado...
