@@ -53,6 +53,7 @@ void InitGL(GLvoid)     // Inicializamos parametros
 	glHint(GL_PERSPECTIVE_CORRECTION_HINT, GL_NICEST);
 
 
+
 }
 
 void display(void)   // Creamos la funcion donde se dibuja
