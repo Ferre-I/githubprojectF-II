@@ -1,8 +1,8 @@
-﻿  main_prac8_2.cpp
-c:\users\ferre\documents\visual studio 2015\projects\gphraphicsiii\gphraphics\gphraphics\main_prac8_2.cpp(37): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
-c:\users\ferre\documents\visual studio 2015\projects\gphraphicsiii\gphraphics\gphraphics\main_prac8_2.cpp(38): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
-c:\users\ferre\documents\visual studio 2015\projects\gphraphicsiii\gphraphics\gphraphics\main_prac8_2.cpp(62): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
-c:\users\ferre\documents\visual studio 2015\projects\gphraphicsiii\gphraphics\gphraphics\main_prac8_2.cpp(69): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
-c:\users\ferre\documents\visual studio 2015\projects\gphraphicsiii\gphraphics\gphraphics\main_prac8_2.cpp(73): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+﻿  main_prac9_2.cpp
+c:\users\ferre\documents\visual studio 2015\projects\gphraphicsiii\gphraphics\gphraphics\main_prac9_2.cpp(37): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\ferre\documents\visual studio 2015\projects\gphraphicsiii\gphraphics\gphraphics\main_prac9_2.cpp(38): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\ferre\documents\visual studio 2015\projects\gphraphicsiii\gphraphics\gphraphics\main_prac9_2.cpp(62): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\ferre\documents\visual studio 2015\projects\gphraphicsiii\gphraphics\gphraphics\main_prac9_2.cpp(69): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\ferre\documents\visual studio 2015\projects\gphraphicsiii\gphraphics\gphraphics\main_prac9_2.cpp(73): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
   GPhraphics.vcxproj -> C:\Users\Ferre\Documents\Visual Studio 2015\Projects\GPhraphicsIII\GPhraphics\Debug\GPhraphics.exe
   GPhraphics.vcxproj -> C:\Users\Ferre\Documents\Visual Studio 2015\Projects\GPhraphicsIII\GPhraphics\Debug\GPhraphics.pdb (Full PDB)
